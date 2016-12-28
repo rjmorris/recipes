@@ -1,0 +1,2 @@
+- [Crockpot Chicken Salsa Verde](crockpot_chicken_salsa_verde)
+- [Baked Chicken Shawarma](baked_chicken_shawarma)
