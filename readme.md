@@ -6,6 +6,7 @@
 # Side Dishes
 
 - [Broccoli Salad](broccoli_salad)
+- [Tuna Salad](tuna_salad)
 
 # Desserts
 
