@@ -12,6 +12,7 @@
 - [White Chicken Chili Recipe : Patrick and Gina Neely : Food Network](http://www.foodnetwork.com/recipes/patrick-and-gina-neely/white-chicken-chili-recipe.html)
 - [Spaghetti Sauce II Recipe - Allrecipes.com](http://allrecipes.com/recipe/spaghetti-sauce-ii/)
 - [Vegetarian Quinoa Chili with Kale and Red Beans - Some the Wiser](http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-with-kale-and-red-beans.html)
+- [Pulled Pork, Apple, and Butternut Squash Casserole](http://thehealthyfoodie.com/apple-squash-pork-casserole)
 
 ## Slow Cooker
 
@@ -28,6 +29,7 @@
 - [Easy Lentil Stew Recipe - Food.com - 191459](http://www.food.com/recipe/easy-lentil-stew-191459)
 - [Red Lentil Soup with Garam Masala Recipe](http://www.thespicehouse.com/recipes/red-lentil-soup-with-garam-masala-recipe)
 - [Paul & Linda's Lentil Soup - Wikisimpsons](https://simpsonswiki.com/wiki/Paul_%26_Linda%27s_Lentil_Soup)
+- [Roasted Tomato Bacon Soup](http://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-creuset-dutch-oven-giveaway)
 
 # Side Dishes
 
@@ -35,6 +37,7 @@
 - [Guacamole Recipe : Alton Brown : Recipes : Food Network](http://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe/index.html)
 - [Recipes For My Boys: Lime Pineapple Jello Salad](http://www.recipesformyboys.com/2013/04/lime-pineapple-jello-salad.html)
 - [Recipe: Potato, Squash, and Goat Cheese Gratin | The Kitchn](http://www.thekitchn.com/recipe-potato-squash-and-goat-90647)
+- [Cilantro rice](https://www.chowhound.com/post/cilantro-rice-328780?page=2)
 
 # Desserts
 
