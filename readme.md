@@ -10,6 +10,7 @@
 - [Tuna Salad](tuna_salad)
 - [Squash Casserole](squash_casserole)
 - [Cornbread] (cornbread)
+- [Lime Congealed Salad](lime_congealed_salad)
 
 # Desserts
 
