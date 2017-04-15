@@ -26,9 +26,7 @@
 ## Soups
 
 - [Black Bean Soup Recipe - Food.com - 23404](http://www.food.com/recipe/black-bean-soup-23404)
-- [Easy Lentil Stew Recipe - Food.com - 191459](http://www.food.com/recipe/easy-lentil-stew-191459)
 - [Red Lentil Soup with Garam Masala Recipe](http://www.thespicehouse.com/recipes/red-lentil-soup-with-garam-masala-recipe)
-- [Paul & Linda's Lentil Soup - Wikisimpsons](https://simpsonswiki.com/wiki/Paul_%26_Linda%27s_Lentil_Soup)
 - [Roasted Tomato Bacon Soup](http://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-creuset-dutch-oven-giveaway)
 
 # Side Dishes
