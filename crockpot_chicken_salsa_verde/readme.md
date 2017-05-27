@@ -2,15 +2,11 @@ Original recipe: [http://www.skinnytaste.com/easiest-crock-pot-salsa-verde-chick
 
 # Ingredients
 
-- 1 lb chicken tenders
+- 0.75 lb chicken tenders
 - 16 oz salsa verde (the "green" salsa)
 - ½ tsp garlic powder
 - ½ tsp oregano
 - ½ tsp ground cumin
-
-## Sides
-
-- rice
 
 # Directions
 
