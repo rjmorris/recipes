@@ -6,6 +6,7 @@
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Lentil Soup](lentil_soup)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
+- [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
 
 # Side Dishes
 
