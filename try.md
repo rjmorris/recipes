@@ -1,9 +1,7 @@
 # Main Dishes
 
 - [How To Cook A Pot Roast: A Guide For People Who Want To Live, Dammit](http://deadspin.com/5970682/how-to-cook-a-pot-roast-a-guide-for-people-who-want-to-live-dammit?utm_source=lifehacker.com&utm_medium=recirculation&utm_campaign=recirculation)
-- [Classic Tuna Salad Sandwich Recipe - NYT Cooking](http://cooking.nytimes.com/recipes/1017337-classic-tuna-salad-sandwich)
 - [Hawaiian Ham and Swiss Slider | King's Hawaiian Recipes](http://www.kingshawaiian.com/recipes/hawaiian-ham--swiss-slider/)
-- [Mustard-Roasted Chicken With Vegetables | Real Simple Recipes](http://www.realsimple.com/food-recipes/browse-all-recipes/mustard-roasted-chicken-vegetables-10000001695438/index.html)
 
 ## Dutch Oven
 
@@ -21,6 +19,7 @@
 - [Crockpot Arsenal: Curry Chicken Soup | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/16/crockpot-arsenal-curry-chicken-soup)
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
+- [Slow Cooker Pulled Pork](http://slowcookergourmet.net/best-slow-cooker-pulled-pork/)
 
 ## Soups
 
