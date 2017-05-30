@@ -5,6 +5,7 @@
 - [Crockpot Butter Chicken](crockpot_butter_chicken)
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Lentil Soup](lentil_soup)
+- [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
 
 # Side Dishes
 
