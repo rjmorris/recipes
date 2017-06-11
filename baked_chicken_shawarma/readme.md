@@ -17,7 +17,7 @@ Original recipe: [http://cooking.nytimes.com/recipes/1017161-oven-roasted-chicke
 ## Sides
 
 - rice
-- tomatoes, cumumber, Kalamata olives
+- tomatoes, cucumber, Kalamata olives
 
 # Directions
 
