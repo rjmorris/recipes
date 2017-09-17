@@ -20,6 +20,7 @@
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
 - [Slow Cooker Pulled Pork](http://slowcookergourmet.net/best-slow-cooker-pulled-pork/)
+- [Crockpot BBQ Chicken](https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html)
 
 ## Soups
 
