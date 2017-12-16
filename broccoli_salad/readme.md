@@ -23,7 +23,7 @@ Choose one or more of the following toppings:
 - almonds
 - sunflower seeds
 - sliced grapes (about 10 grapes)
-- slided grape tomatoes
+- sliced grape tomatoes
 - ¼ cup shredded carrots
 
 # Directions
