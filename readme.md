@@ -7,6 +7,7 @@
 - [Lentil Soup](lentil_soup)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
+- [Tomato Bacon Soup](tomato_bacon_soup)
 
 # Side Dishes
 
