@@ -2,15 +2,15 @@ Original recipe: [https://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-cre
 
 # Ingredients
 
-    2 lbs roma tomatoes
-    14 strips of bacon (pre-cooked box is OK)
-    1 small white onion
-    4 cloves garlic, minced
-    1½ cups chicken or vegetable stock
-    ⅔ cup heavy cream
-    1 Tbsp smoked paprika
-    1 bay leaf
-    1-2 tbsp vegetable or canola oil
+- 2 lbs roma tomatoes
+- 14 strips of bacon (pre-cooked box is OK)
+- 1 small white onion
+- 4 cloves garlic, minced
+- 1½ cups chicken or vegetable stock
+- ⅔ cup heavy cream
+- 1 Tbsp smoked paprika
+- 1 bay leaf
+- 1-2 tbsp vegetable or canola oil
 
 # Directions
 
