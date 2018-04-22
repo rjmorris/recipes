@@ -1,7 +1,7 @@
 # Main Dishes
 
 - [Crockpot Chicken Chickpea Masala](crockpot_chicken_chickpea_masala)
-- [Crockpot Chicken Salsa Verde](crockpot_chicken_salsa_verde)
+- [Crockpot Chicken Salsa](crockpot_chicken_salsa)
 - [Crockpot Butter Chicken](crockpot_butter_chicken)
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Lentil Soup](lentil_soup)
