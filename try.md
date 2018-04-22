@@ -26,7 +26,6 @@
 
 - [Black Bean Soup Recipe - Food.com - 23404](http://www.food.com/recipe/black-bean-soup-23404)
 - [Red Lentil Soup with Garam Masala Recipe](http://www.thespicehouse.com/recipes/red-lentil-soup-with-garam-masala-recipe)
-- [Roasted Tomato Bacon Soup](http://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-creuset-dutch-oven-giveaway)
 
 # Side Dishes
 
