@@ -2,6 +2,7 @@
 
 - [How To Cook A Pot Roast: A Guide For People Who Want To Live, Dammit](http://deadspin.com/5970682/how-to-cook-a-pot-roast-a-guide-for-people-who-want-to-live-dammit?utm_source=lifehacker.com&utm_medium=recirculation&utm_campaign=recirculation)
 - [Hawaiian Ham and Swiss Slider | King's Hawaiian Recipes](http://www.kingshawaiian.com/recipes/hawaiian-ham--swiss-slider/)
+- [Lemon Basic Chicken](http://www.wholesomelicious.com/one-sheet-pan-lemon-basil-chicken/)
 
 ## Dutch Oven
 
@@ -20,6 +21,8 @@
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
 - [Slow Cooker Pulled Pork](http://slowcookergourmet.net/best-slow-cooker-pulled-pork/)
 - [Crockpot BBQ Chicken](https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html)
+- [Slow Cooker Thai Chicken with Basil](https://www.allrecipes.com/recipe/261993/easy-slow-cooker-thai-chicken-with-basil/)
+- [Slow Cooker Sante Fe Beans and Rice](https://www.365daysofcrockpot.com/slow-cooker-santa-fe-beans-and-rice/)
 
 ## Soups
 
