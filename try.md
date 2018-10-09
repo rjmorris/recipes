@@ -21,8 +21,6 @@
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
 - [Slow Cooker Pulled Pork](http://slowcookergourmet.net/best-slow-cooker-pulled-pork/)
 - [Crockpot BBQ Chicken](https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html)
-- [Slow Cooker Thai Chicken with Basil](https://www.allrecipes.com/recipe/261993/easy-slow-cooker-thai-chicken-with-basil/)
-- [Slow Cooker Sante Fe Beans and Rice](https://www.365daysofcrockpot.com/slow-cooker-santa-fe-beans-and-rice/)
 
 ## Soups
 
