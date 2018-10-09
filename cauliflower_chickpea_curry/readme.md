@@ -3,8 +3,8 @@ Original recipe: [http://ohmyveggies.com/recipe-cauliflower-chickpea-coconut-cur
 # Ingredients
 
 - 1 medium head cauliflower, broken into florets
-- 2 cans (14 oz each) diced tomatoes, undrained
-- 2 cans (15 oz each) chickpeas, drained and rinsed
+- 1 can (14 oz) diced tomatoes, undrained
+- 1 can (15 oz) chickpeas, drained and rinsed
 - 1 large onion, diced
 - 3 cloves garlic, minced
 - 1 inch ginger, peeled and minced
@@ -26,7 +26,8 @@ Original recipe: [http://ohmyveggies.com/recipe-cauliflower-chickpea-coconut-cur
 1. Cover and simmer for 15 minutes or until cauliflower is tender.
 1. Uncover and cook for 5 more minutes if the sauce needs to be thicker.
 
-# Options
+# Notes
 
-- This makes a lot, so much that it barely fits in my 2.75 qt Dutch oven. Consider using 1 can of chickpeas, 1 can of tomatoes, and less cauliflower, while keeping the rest the same.
-- Replace the garam masala, coriander, cumin, and turmeric with 2 tbsp yellow curry.
+- A full head of cauliflower may be too much, so consider holding out a few florets.
+- The chickpeas didn't soften up as much as I'd like. Consider cooking them for an extra 15 minutes before adding the cauliflower.
+- The result is pretty liquidy. You might consider it more of a soup.
