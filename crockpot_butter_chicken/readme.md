@@ -2,15 +2,15 @@ Original recipe: [http://www.onelovelylife.com/slow-cooker-butter-chicken](http:
 
 # Ingredients
 
-- 1 lb chicken breasts or thighs
+- 1.25 lb chicken breasts or thighs
 - 1 medium onion, diced
 - 4 cloves garlic, minced
 - ½ tsp ground ginger
 - 1 tbsp garam masala
-- ½ tsp cayenne pepper
+- ¼ tsp cayenne pepper
 - ½ tsp salt
-- 14 oz can of light coconut milk
-- 6 oz can tomato sauce
+- 14 oz can of full fat coconut milk
+- 6 oz can tomato paste
 - 1 tsp lime juice concentrate
 
 # Directions
@@ -23,3 +23,8 @@ Original recipe: [http://www.onelovelylife.com/slow-cooker-butter-chicken](http:
 # Serving Suggestions
 
 - Serve over rice.
+
+# Options
+
+- Add diced butternut squash or sweet potatoes.
+- Use light coconut milk, but note that the sauce will be runnier.
