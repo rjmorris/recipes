@@ -4,10 +4,10 @@ Original recipe: [http://www.skinnykitchen.com/recipes/barbeque-turkey-meatloaf/
 
 - 1 lb ground turkey (99% lean may be too dry, so look for something less, like 94%)
 - 1 small yellow onion, chopped (about 1 cup)
-- ½ cup BBQ sauce, plus more to spread on top
+- ½ cup BBQ sauce (a little less if the sauce is thin), plus more to spread on top
 - 2 tbsp worcestershire sauce
 - ½ cup plain breadcrumbs or oatmeal
-- 2 eggs, beaten
+- 1 egg, beaten
 - ¼ tsp salt
 - fresh ground black pepper, to taste
 
