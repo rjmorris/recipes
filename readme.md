@@ -3,6 +3,7 @@
 - [Crockpot Chicken Chickpea Masala](crockpot_chicken_chickpea_masala)
 - [Crockpot Chicken Salsa](crockpot_chicken_salsa)
 - [Crockpot Butter Chicken](crockpot_butter_chicken)
+- [Crockpot Mango Chicken](crockpot_mango_chicken)
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Lentil Soup](lentil_soup)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
