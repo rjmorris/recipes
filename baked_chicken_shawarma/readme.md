@@ -7,8 +7,8 @@ Original recipe: [http://cooking.nytimes.com/recipes/1017161-oven-roasted-chicke
 - juice from 1 lemon
 - 4 cloves garlic, minced
 - 1 tbsp olive oil
-- 2 tsp ground cumin
-- 2 tsp paprika
+- 1 tsp ground cumin
+- 1 tsp paprika
 - ½ tsp turmeric
 - ¼ tsp cinnamon
 - ½ tsp salt
