@@ -10,6 +10,7 @@
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
 - [Tomato Bacon Soup](tomato_bacon_soup)
 - [Cauliflower Chickpea Curry](cauliflower_chickpea_curry)
+- [Quinoa Chili](quinoa_chili)
 
 # Side Dishes
 
