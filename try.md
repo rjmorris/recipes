@@ -2,7 +2,6 @@
 
 - [How To Cook A Pot Roast: A Guide For People Who Want To Live, Dammit](http://deadspin.com/5970682/how-to-cook-a-pot-roast-a-guide-for-people-who-want-to-live-dammit?utm_source=lifehacker.com&utm_medium=recirculation&utm_campaign=recirculation)
 - [Hawaiian Ham and Swiss Slider | King's Hawaiian Recipes](http://www.kingshawaiian.com/recipes/hawaiian-ham--swiss-slider/)
-- [Lemon Basic Chicken](http://www.wholesomelicious.com/one-sheet-pan-lemon-basil-chicken/)
 
 ## Dutch Oven
 
@@ -10,7 +9,6 @@
 - [White Chicken Chili Recipe : Patrick and Gina Neely : Food Network](http://www.foodnetwork.com/recipes/patrick-and-gina-neely/white-chicken-chili-recipe.html)
 - [Spaghetti Sauce II Recipe - Allrecipes.com](http://allrecipes.com/recipe/spaghetti-sauce-ii/)
 - [Vegetarian Quinoa Chili with Kale and Red Beans - Some the Wiser](http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-with-kale-and-red-beans.html)
-- [Pulled Pork, Apple, and Butternut Squash Casserole](http://thehealthyfoodie.com/apple-squash-pork-casserole)
 
 ## Slow Cooker
 
@@ -19,7 +17,6 @@
 - [Crockpot Arsenal: Curry Chicken Soup | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/16/crockpot-arsenal-curry-chicken-soup)
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
-- [Slow Cooker Pulled Pork](http://slowcookergourmet.net/best-slow-cooker-pulled-pork/)
 - [Crockpot BBQ Chicken](https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html)
 
 ## Soups
@@ -31,7 +28,6 @@
 
 - [Spicy Beans | The Pioneer Woman Cooks | Ree Drummond](http://thepioneerwoman.com/cooking/2011/08/spicy-beans/)
 - [Guacamole Recipe : Alton Brown : Recipes : Food Network](http://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe/index.html)
-- [Recipes For My Boys: Lime Pineapple Jello Salad](http://www.recipesformyboys.com/2013/04/lime-pineapple-jello-salad.html)
 - [Recipe: Potato, Squash, and Goat Cheese Gratin | The Kitchn](http://www.thekitchn.com/recipe-potato-squash-and-goat-90647)
 - [Cilantro rice](https://www.chowhound.com/post/cilantro-rice-328780?page=2)
 
