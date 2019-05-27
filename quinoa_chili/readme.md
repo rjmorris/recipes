@@ -7,7 +7,7 @@ Original recipe: http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-
 - 1 red bell pepper, diced
 - 2 cloves garlic, minced
 - 1 cup frozen corn
-- 1 cup tomato sauce
+- 1 8oz can tomato sauce
 - 1 can kidney beans, drained and rinsed
 - 1½ tsp ground cumin
 - 1 tsp dried oregano
@@ -26,7 +26,3 @@ Original recipe: http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-
 1. Stir in the water, quinoa, corn, and tomato sauce.
 1. Bring to a boil, then reduce heat to low and simmer for 20 minutes.
 1. Add the beans, and simmer for another 5 minutes.
-
-# Options
-
-- Add several kale leaves, destemmed and chopped, at the same time the beans are added. The kale makes a nice addition, but cleaning and chopping it is a hassle, so you might be better off omitting it and providing a separate vegetable.
