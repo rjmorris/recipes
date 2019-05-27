@@ -13,7 +13,6 @@ Original recipe: [http://www.skinnykitchen.com/recipes/barbeque-turkey-meatloaf/
 
 # Directions
 
-1. By hand, mix all ingredients in a large bowl.
-1. Place the mixture in a loaf pan.
-1. Spread additional BBQ sauce over top of loaf.
-1. Bake at 350 for 1 hour. Let stand 5 minutes before serving.
+1. By hand, mix all ingredients in a loaf pan. (It's easier to mix in a separate bowl, but this way avoids dirtying a separate bowl with raw turkey.)
+1. Bake at 350 for 1 hour. Let stand 5 minutes.
+1. Top with additional BBQ sauce before serving.
