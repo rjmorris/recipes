@@ -14,7 +14,7 @@ Original recipe: http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-
 - ¼ tsp ground cinnamon
 - ¼ tsp cayenne
 - 1 tsp salt
-- 1 cup water
+- 1¼ cup water
 - 1 tbsp olive oil
 
 # Directions
