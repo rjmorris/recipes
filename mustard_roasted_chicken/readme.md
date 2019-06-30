@@ -9,7 +9,7 @@ Original recipe: [http://www.realsimple.com/food-recipes/browse-all-recipes/must
 - 3 tbsp whole-grain mustard
 - 3 tbsp worcestershire sauce
 - 2 tbsp water
-- several sprigs of thyme, or 1 tsp ground thyme, or 2 tsb dry thyme leaves
+- several sprigs of thyme, or 1 tsp ground thyme, or 2 tsp dry thyme leaves
 - freshly ground black pepper
 - 1 tbsp olive oil
 
