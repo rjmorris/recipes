@@ -19,3 +19,11 @@ Original recipe: https://www.allrecipes.com/recipe/15880/key-lime-pie-vii
 # Suggestions
 
 If the crust comes with a plastic protector, flip it over and attach it to the pie tin to protect the pie during transport.
+
+# Alternatives
+
+Make a pudding instead of a pie by baking the filling in a 9x9 dish instead of in a pie crust. Because the dish will hold more volume than the crust will, consider using the full 2 cans of sweetened condensed milk, the full 8 oz container of sour cream, and bumping the key lime juice up to 1 cup.
+
+# Try next time
+
+Use a single 14 oz can of sweetened condensed milk instead of 1¾ cans. Use a full 8 oz container of sour cream instead of half of one. The main goal is to avoid having leftover condensed milk and sour cream, since I don't really have other uses for them.
