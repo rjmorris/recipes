@@ -6,9 +6,7 @@
 ## Dutch Oven
 
 - [Vegetarian Butternut Squash Chipotle Chili - Cookie and Kate](http://cookieandkate.com/2012/butternut-squash-chipotle-chili-with-avocado/)
-- [White Chicken Chili Recipe : Patrick and Gina Neely : Food Network](http://www.foodnetwork.com/recipes/patrick-and-gina-neely/white-chicken-chili-recipe.html)
 - [Spaghetti Sauce II Recipe - Allrecipes.com](http://allrecipes.com/recipe/spaghetti-sauce-ii/)
-- [Vegetarian Quinoa Chili with Kale and Red Beans - Some the Wiser](http://somethewiser.danoah.com/2013/10/vegetarian-quinoa-chili-with-kale-and-red-beans.html)
 
 ## Slow Cooker
 
@@ -17,7 +15,6 @@
 - [Crockpot Arsenal: Curry Chicken Soup | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/16/crockpot-arsenal-curry-chicken-soup)
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
 - [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
-- [Crockpot BBQ Chicken](https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chicken.html)
 
 ## Soups
 
