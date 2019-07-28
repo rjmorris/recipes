@@ -1,7 +1,7 @@
 # Ingredients
 
 - 0.75 lb chicken tenders
-- 19 oz can chickpeas (garbanzo beans)
+- 19 oz can chickpeas (garbanzo beans), drained and rinsed
 - 28 oz can diced tomatoes, drained
 - 6 oz can tomato paste
 - 1 medium yellow onion, chopped
@@ -15,7 +15,6 @@
 
 # Directions
 
-1. Drain and rinse chickpeas.
 1. Combine all ingredients in the crockpot.
 1. Cook on HIGH for 2 hours.
 
