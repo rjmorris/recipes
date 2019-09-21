@@ -9,7 +9,7 @@
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Baked Swordfish and Vegetables](baked_swordfish)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
-- [Peanut Butter Chicken](peanut_butter_chicken)
+- [African Peanut Butter Chicken](aftican_peanut_butter_chicken)
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
 - [Cauliflower Chickpea Curry](cauliflower_chickpea_curry)
 - [Quinoa Chili](quinoa_chili)
