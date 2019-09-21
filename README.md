@@ -19,6 +19,7 @@
 - [Lentil Soup](lentil_soup)
 - [Tomato Bacon Soup](tomato_bacon_soup)
 - [Carrot Soup](carrot_soup)
+- [Butternut Squash Soup](butternut_squash_soup)
 
 # Side Dishes
 
