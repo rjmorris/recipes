@@ -8,17 +8,20 @@
 - [Crockpot White Chicken Chili](crockpot_white_chicken_chili)
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
 - [Baked Swordfish and Vegetables](baked_swordfish)
-- [Lentil Soup](lentil_soup)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
 - [Peanut Butter Chicken](peanut_butter_chicken)
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
-- [Tomato Bacon Soup](tomato_bacon_soup)
 - [Cauliflower Chickpea Curry](cauliflower_chickpea_curry)
 - [Quinoa Chili](quinoa_chili)
 
+# Soups
+
+- [Lentil Soup](lentil_soup)
+- [Tomato Bacon Soup](tomato_bacon_soup)
+- [Carrot Soup](carrot_soup)
+
 # Side Dishes
 
-- [Carrot Soup](carrot_soup)
 - [Broccoli Salad](broccoli_salad)
 - [Tuna Salad](tuna_salad)
 - [Squash Casserole](squash_casserole)
