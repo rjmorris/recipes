@@ -16,6 +16,7 @@
 
 # Side Dishes
 
+- [Carrot Soup](carrot_soup)
 - [Broccoli Salad](broccoli_salad)
 - [Tuna Salad](tuna_salad)
 - [Squash Casserole](squash_casserole)
