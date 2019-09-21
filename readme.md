@@ -7,6 +7,7 @@
 - [Crockpot BBQ Chicken](crockpot_bbq_chicken)
 - [Crockpot White Chicken Chili](crockpot_white_chicken_chili)
 - [Baked Chicken Shawarma](baked_chicken_shawarma)
+- [Baked Swordfish and Vegetables](baked_swordfish)
 - [Lentil Soup](lentil_soup)
 - [Mustard-Roasted Chicken and Vegetables](mustard_roasted_chicken)
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
