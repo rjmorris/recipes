@@ -14,7 +14,6 @@
 - [365 Days of Slow Cooking](http://www.365daysofcrockpot.com/)
 - [Crockpot Arsenal: Curry Chicken Soup | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/16/crockpot-arsenal-curry-chicken-soup)
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
-- [Slow Cooker Butternut Squash Soup | Gimme Some Oven](http://www.gimmesomeoven.com/slow-cooker-butternut-squash-soup-recipe/)
 
 ## Soups
 
