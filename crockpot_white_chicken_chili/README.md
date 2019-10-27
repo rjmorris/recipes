@@ -5,7 +5,7 @@ Original recipe: https://damndelicious.net/2019/04/27/slow-cooker-white-chicken-
 - 1.5 lbs boneless, skinless chicken thighs
 - 2 cups chicken stock
 - 2 cans (4 oz each) diced green chilies
-- 1 can white kidney beans (cannelli), drained and rinsed
+- 1 can white kidney beans (cannellini), drained and rinsed
 - 1 medium onion, diced
 - 6 cloves minced garlic
 - ½ cup chopped cilantro
