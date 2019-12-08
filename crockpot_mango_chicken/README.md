@@ -3,15 +3,14 @@ Original recipe: https://www.flavourandsavour.com/slow-cooker-thai-mango-chicken
 # Ingredients
 
 - 1 lb boneless, skinless chicken breasts
-- 1 can diced mangoes, 15 oz
-- 1 red bell pepper, finely diced
+- 1 can diced mangoes, 15 oz, partially drained
+- 1 red bell pepper, diced
 - 3 cloves garlic, minced
 - 1 tsp red pepper flakes
 - 1 tbsp apple cider vinegar
-- 1½ tbsp soy sauce
-- 2 tbsp fish sauce
-- 2 tbsp lime juice
-- 1 tbsp brown sugar
+- 1 tbsp soy sauce
+- 1 tbsp fish sauce
+- 1 tbsp lime juice
 - 1 tsp ground ginger
 - ¼ tsp turmeric
 
