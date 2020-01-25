@@ -10,7 +10,7 @@
 
 1. Add all ingredients to a stockpot.
 1. Bring to a boil.
-1. Reduce heat, cover, and simmer until the carrots and sweet potatoes are soft (about 30 minutes).
+1. Reduce heat, cover, and simmer until the carrots and sweet potatoes are soft (about 30 minutes for sliced carrots, 60 minutes for whole baby carrots).
 1. Puree the soup with an immersion blender
 1. Serve immediately.
 
@@ -18,4 +18,4 @@
 
 - Saute the onions first.
 - Replace the water with vegetable or chicken broth.
-- Add spices. Consider ginger, cumin, curry, or cinnamon.
+- Add spices. Consider cumin, curry, or cinnamon.
