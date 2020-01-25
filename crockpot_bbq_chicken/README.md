@@ -16,3 +16,7 @@ Original recipe: https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chic
 1. Cook on High for 3 hours.
 1. Shred chicken.
 1. Cook on Low for 30 minutes.
+
+# Options
+
+To bake this instead of using the crock pot, use 1 lb of breasts or tenders, drizzle the BBQ sauce on top instead of pouring in 1 cup, and bake at 350 for about 45 minutes.
