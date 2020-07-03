@@ -14,7 +14,7 @@
 1. Stir the peanut butter and coconut milk until the peanut butter is dissolved.
 1. Pour into a dutch oven.
 1. Add the chicken, the spices, and the onion and tomatoes.
-1. Bake at 450 for 45 minutes.
+1. Bake at 350 for 45 minutes.
 
 # Options
 
