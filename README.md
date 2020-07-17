@@ -13,6 +13,7 @@
 - [BBQ Turkey Meatloaf](bbq_turkey_meatloaf)
 - [Cauliflower Chickpea Curry](cauliflower_chickpea_curry)
 - [Quinoa Chili](quinoa_chili)
+- [Jambalaya](jambalaya)
 
 # Soups
 
