@@ -4,7 +4,7 @@ Original recipe: [http://cooking.nytimes.com/recipes/1017161-oven-roasted-chicke
 
 - 1 lb chicken tenders
 - half of a red onion
-- juice from 1 lemon
+- 3 tbsp lemon juice (about 1 large lemon)
 - 4 cloves garlic, minced
 - 1 tbsp olive oil
 - 1 tsp ground cumin
