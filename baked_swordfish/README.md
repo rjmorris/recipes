@@ -12,14 +12,14 @@ Original recipe: Glorious One-Pot Meals, page 26
 
 # Directions
 
-1. Add the sweet potato and garlic to a 9x9 baking dish with about ¼ cup of water.
-1. Cover with foil and bake at 400° for 15 minutes. (This step is to give the sweet potatoes some extra time to soften.)
+1. Add the sweet potato and garlic to a roasting pan with about ¼ cup of water.
+1. Cover and bake at 400° for 15 minutes. (This step is to give the sweet potatoes some extra time to soften.)
 1. Remove from the oven.
 1. Sprinkle 1 tbsp of cajun seasoning over the potatoes.
 1. Place the swordfish and vegetables on top of the potatoes.
 1. Sprinkle the remaining 1 tbsp of cajun seasoning over everything.
-1. Cover with foil and bake at 350° for 30 minutes.
+1. Cover and bake at 350° for 30 minutes.
 
 # Options
 
-- Try other spices instead of cajun seasoning. Consider curry, garam masala, or taco seasoning.
+- Try other spices instead of cajun seasoning. Consider curry or garam masala.
