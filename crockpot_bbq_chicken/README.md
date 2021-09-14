@@ -4,7 +4,7 @@ Original recipe: https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chic
 
 - 1.5 lbs boneless, skinless chicken breasts or thighs
 - 1 brown onion, sliced
-- ¾ cup BBQ sauce
+- ½ cup BBQ sauce
 - 1 tbsp worcestershire sauce
 - 1 tbsp red wine vinegar
 - 1 tsp dried oregano
@@ -13,7 +13,7 @@ Original recipe: https://www.familyfreshmeals.com/2014/06/best-crockpot-bbq-chic
 
 # Directions
 
-1. Add the chicken to the crockpot and onion. Pour other ingredients on top.
+1. Add the chicken and onion to the crockpot. Pour other ingredients on top.
 1. If using breasts, cook on High for 3 hours. If using thighs, cook on Low for 6 hours.
 1. Shred chicken.
 1. Cook on Low for 30 minutes.
