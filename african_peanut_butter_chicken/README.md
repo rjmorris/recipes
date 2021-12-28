@@ -4,7 +4,7 @@
 - 1 small onion, diced
 - 1 can diced tomatoes, drained
 - 1 cup coconut milk
-- 4 tbsp peanut butter (unsweetened)
+- 4 tbsp peanut butter
 - 1 tsp ground coriander
 - 1 tsp cinnamon
 - ½ tsp red pepper flakes
