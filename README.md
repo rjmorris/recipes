@@ -14,6 +14,7 @@
 - [Cauliflower Chickpea Curry](cauliflower_chickpea_curry)
 - [Quinoa Chili](quinoa_chili)
 - [Jambalaya](jambalaya)
+- [Sauerkraut Chicken](sauerkraut_chicken)
 
 # Soups
 
