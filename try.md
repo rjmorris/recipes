@@ -10,8 +10,6 @@
 
 ## Slow Cooker
 
-- [A Year of Slow Cooking](http://crockpot365.blogspot.com/)
-- [365 Days of Slow Cooking](http://www.365daysofcrockpot.com/)
 - [Crockpot Arsenal: Curry Chicken Soup | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/16/crockpot-arsenal-curry-chicken-soup)
 - [Crockpot Arsenal: Chana Masala | Eat My Charlotte](http://clclt.com/eatmycharlotte/archives/2012/02/24/crockpot-arsenal-chana-masala)
 
@@ -29,7 +27,7 @@
 
 # Desserts
 
-- [Mama's Strawberry Cobbler | Southern Plate](http://www.southernplate.com/2011/02/mamas-strawberry-cobbler.html)
+- [Mama's Strawberry Cobbler | Southern Plate](https://www.southernplate.com/strawberry-cobbler)
 - [Strawberry Pie II Recipe - Allrecipes.com](http://allrecipes.com/recipe/strawberry-pie-ii/Detail.aspx)
 - [Roasted Strawberry-Buttermilk Sherbet Recipe - Bon Appetit](http://www.bonappetit.com/recipe/roasted-strawberry-buttermilk-sherbet)
 - [Mixed Berry Crisp Recipe at Epicurious.com](http://www.epicurious.com/recipes/food/views/Mixed-Berry-Crisp-101940)
