@@ -15,6 +15,7 @@
 - [Quinoa Chili](quinoa_chili)
 - [Jambalaya](jambalaya)
 - [Sauerkraut Chicken](sauerkraut_chicken)
+- [Quinoa Salad with Roasted Brussels Sprouts](quinoa_salad_roasted_brussels)
 
 # Soups
 
