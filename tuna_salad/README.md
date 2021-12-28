@@ -1,4 +1,4 @@
-Original recipe: (http://cooking.nytimes.com/recipes/1017337-classic-tuna-salad-sandwich)[http://cooking.nytimes.com/recipes/1017337-classic-tuna-salad-sandwich]
+Original recipe: http://cooking.nytimes.com/recipes/1017337-classic-tuna-salad-sandwich
 
 # Ingredients
 
