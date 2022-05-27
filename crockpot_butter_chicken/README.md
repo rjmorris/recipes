@@ -15,7 +15,9 @@ Original recipe: [http://www.onelovelylife.com/slow-cooker-butter-chicken](http:
 
 # Directions
 
-1. Add all ingredients except lime juice to crockpot.
+1. Shake the coconut milk hard until you feel the fat layer break apart. This will make it easier to get out of the can after you open it.
+1. Add the coconut milk, tomato paste, and spices to the crockpot and whisk to combine.
+1. Add remaining ingredients except lime juice.
 1. Cook on high for 3-4 hours or on low for 6-8 hours.
 1. About 30 minutes before completion, shred the chicken.
 1. Add lime juice and cook for remaining time.
