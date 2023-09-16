@@ -6,7 +6,7 @@ Original recipe: [https://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-cre
 - 14 strips of bacon (pre-cooked box is OK)
 - 1 small white onion
 - 4 cloves garlic, minced
-- 1½ cups chicken or vegetable stock
+- 2 cups water
 - 1 Tbsp smoked paprika
 - 1 bay leaf
 
@@ -26,4 +26,5 @@ Original recipe: [https://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-cre
 
 # Options
 
+- Use an 8 oz package of diced ham instead of bacon. Saute the ham in oil before adding the onions. Don't remove the ham like you would the bacon.
 - Use 1-2 cans of tomato soup instead of diced tomatoes.
