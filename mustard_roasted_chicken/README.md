@@ -1,5 +1,3 @@
-Original recipe: [http://www.realsimple.com/food-recipes/browse-all-recipes/mustard-roasted-chicken-vegetables-10000001695438/index.html](http://www.realsimple.com/food-recipes/browse-all-recipes/mustard-roasted-chicken-vegetables-10000001695438/index.html)
-
 # Ingredients
 
 - 1 lb boneless, skinless chicken breasts or tenders
