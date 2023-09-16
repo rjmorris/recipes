@@ -15,7 +15,7 @@ Original recipe: [https://www.gimmesomeoven.com/roasted-tomato-bacon-soup-le-cre
 1. Chop the onion.
 1. Heat a large stockpot over medium-high heat.
 1. Add the bacon and cook, stirring occasionally, until crispy.
-1. Transfer bacon to a paper-towl-covered plate, leaving the grease in the pot.
+1. Transfer bacon to a paper-towel-covered plate, leaving the grease in the pot.
 1. Add onion and saute for about 2 minutes until the onion is soft and translucent.
 1. Add the garlic and saute for an additional minute.
 1. Add the chicken or vegetable stock, bay leaf, smoked paprika, diced tomatoes, and cooked bacon.
