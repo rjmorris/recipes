@@ -5,7 +5,7 @@ Original recipe from Grace Godfrey
 ## Crust
 
 - 1 cup self-rising flour
-- 1 cup sugar
+- ½ cup sugar
 - 1 egg
 - 1 stick margarine, melted
 
