@@ -22,3 +22,8 @@
 # Options
 
 - For oatmeal raisin cookies, omit the cocoa powder and add ½ cup raisins (about 1 small box) along with the oats.
+
+# Try next time
+
+- Try less sugar, maybe 1½ cups.
+- If making just for yourself, cut the recipe in half.
