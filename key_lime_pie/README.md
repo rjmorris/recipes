@@ -16,6 +16,10 @@ Original recipe: https://www.allrecipes.com/recipe/15880/key-lime-pie-vii
 1. Let cool for about an hour and then refrigerate.
 1. Chill overnight before serving.
 
+# Try next time
+
+Drain the liquid from the sour cream and discard it. After removing a couple slices and letting the pie sit in the refrigerator for a few hours, liquid seeps into the hole where the slices had been. I suspect this might be coming from the sour cream. When making the egg version of this recipe, which uses egg yolks instead of sour cream, I didn't observe any liquid seepage. The egg version also used ½ cup instead of ¾ cup lime juice, so maybe that's where the excess liquid came from.
+
 # Suggestions
 
 If the crust comes with a plastic protector, flip it over and attach it to the pie tin to protect the pie during transport.
