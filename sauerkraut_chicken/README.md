@@ -1,7 +1,7 @@
 # Ingredients
 
 - 1 lb boneless, skinless chicken breasts or thighs
-- 1 lb bag sauerkraut
+- 1 lb bag sauerkraut or two 14 oz cans
 - ½ cup shredded swiss cheese
 - 1 Tbsp brown mustard
 - 1 tsp worcestershire sauce
