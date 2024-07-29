@@ -3,7 +3,7 @@ Original recipe: https://damndelicious.net/2019/04/27/slow-cooker-white-chicken-
 # Ingredients
 
 - 1.5 lbs boneless, skinless chicken thighs
-- 2 cups chicken stock
+- 1.5 cups liquid (water, chicken stock, or low-fat coconut milk)
 - 2 cans (4 oz each) diced green chilies
 - 1 can white kidney beans (cannellini), drained and rinsed
 - 1 medium onion, diced
@@ -20,11 +20,7 @@ Original recipe: https://damndelicious.net/2019/04/27/slow-cooker-white-chicken-
 
 1. Trim the fat from the chicken thighs.
 1. Add the chicken to the crockpot. Add all other ingredients except the lime juice and cilantro.
-1. Cook on High for 4 hours or Low for 6 hours.
+1. Cook on Low for 4 hours.
 1. Shred chicken.
 1. Add lime juice and cilantro.
 1. Cook on Low for 15 minutes.
-
-# Try next time
-
-Use breasts instead of thighs and cook on High for 2-3 hours. Trimming the fat from the thighs is time-consuming, and even though thighs generally work better in the crockpot than breasts, I'm not sure they're that much better.
