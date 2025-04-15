@@ -6,8 +6,8 @@ Original recipe from Grace Godfrey
 
 - 1 cup self-rising flour
 - ½ cup sugar
-- 1 egg
-- 1 stick margarine, melted
+- 1 egg (or 1 container of packaged apple sauce)
+- 1 stick margarine, melted (or ½ cup oil)
 
 ## Filling
 
